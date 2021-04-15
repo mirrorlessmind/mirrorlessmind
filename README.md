@@ -1,8 +1,6 @@
 <h1 align="center">Welcome To Cigi Tipton's Repos</h1>
 <h3 align="center">Art+Code</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirrorlessmind" alt="mirrorlessmind" /></a> </p>
-
 - 🌱 I'm enrolled at SMU in the Full Stack Coding Program. **React, Node, MySQL, JS, CSS, HTML**
 
 - 👨‍💻 All of my projects are available at [www.mirrorlessmind.com/codeportfolio](www.mirrorlessmind.com/codeportfolio)
