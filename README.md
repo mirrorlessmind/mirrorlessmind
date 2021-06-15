@@ -1,9 +1,10 @@
 <h1 align="center">Welcome To Cigi Tipton's Repos</h1>
 <h3 align="center">Art+Code</h3>
 
-- 🌱 I'm enrolled at SMU in the Full Stack Coding Program. **React, Node, MySQL, JS, CSS, HTML**
+- 🌱 I'm enrolled at SMU in the Full Stack Coding Program. Graduate July 2021. 
+-     Expanding my skillset to include **React, Node, MySQL, MongoDB, NoSQL, JS, CSS, Agile Methodologies **
 
-- 👨‍💻 All of my projects are available at [www.mirrorlessmind.com/codeportfolio](www.mirrorlessmind.com/codeportfolio)
+- 👨‍💻 All of my projects are available at [www.mirrorlessmind.com/codeportfolio](www.mirrorlessmind.com/cigiportfolio)
 
 - ⚡ Fun fact **I have been on Oprah!**
 
