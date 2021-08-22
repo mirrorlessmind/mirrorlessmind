@@ -7,7 +7,7 @@
 
 <!--- 👨‍💻 All of my projects are available at [www.mirrorlessmind.com/codeportfolio](www.mirrorlessmind.com/cigiportfolio) -->
 
-- ⚡ Fun fact **I have been on Oprah!**
+- ⚡ Fun fact **I have been on National & International news with my Art**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
