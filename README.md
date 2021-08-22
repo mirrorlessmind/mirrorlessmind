@@ -1,7 +1,7 @@
 <h1 align="center">Welcome To Cigi Tipton's Repos</h1>
 <h3 align="center">Art+Code</h3>
 
--     Graduating in July 2021, from SMU in the Full Stack Coding Program.
+-     Woohoo! Graduated from SMU's Full Stack Coding Program July 2021. It was intense, but worth it.
 -     Experienced Business owner dovetail expertise in visual arts with computer technology.
 -     Expanded skillset to includes **MERN-Mongo, Express, React, Node + MySQL, NoSQL, JS, CSS, Agile Methodologies **
 
